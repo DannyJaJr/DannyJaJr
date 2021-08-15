@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...React, React Native, IOS, SWift, Android
 - 🤔 I’m looking for help with ... Microservice Architecture
 - 💬 Ask me about ... Java, React, JavaScript, Python
-- 📫 How to reach me: ... [portfolio](https://danieljajrlafontant.com/)
+- 📫 How to reach me: ... [Portfolio](https://danieljajrlafontant.com/)
 - 😄 Pronouns: ... He/HIM
 - ⚡ Fun fact: ... I like challenges and learning new things.
 -->
